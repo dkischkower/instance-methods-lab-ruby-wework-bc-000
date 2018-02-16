@@ -4,7 +4,7 @@ class Dog
     puts "The Dog is sitting"
   end
   
-  def walk
+  def sit
     puts "The Person is walking"
   end  
   
