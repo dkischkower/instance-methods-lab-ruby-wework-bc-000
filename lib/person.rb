@@ -1,7 +1,7 @@
 class Person 
   
   def talk
-    puts "The Dog is sitting"
+    puts "Hello World!"
   end
   
 end
